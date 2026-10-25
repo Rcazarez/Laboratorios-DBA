@@ -1,7 +1,7 @@
 | Campo         | ¿Es dato personal? | Finalidad | ¿Es necesario? | Nivel de acceso | Retención |
 | ------------- | ------------------ | --------- | -------------- | --------------- | --------- |
-| id            |         NO         |IDENTIFICAR EL REGISTRO DEL DATO |SI                |                 |           |
-| nombre        |                    |           |                |                 |           |
+| id            |         NO         |IDENTIFICAR CADA REGISTRO DE LA TABLA |SI|Lectura|SI|
+| nombre        |         SI           |IDENTIFICAR AL CLIENTE|SI|LECTURA|SI|
 | correo        |                    |           |                |                 |           |
 | telefono      |                    |           |                |                 |           |
 | rfc           |                    |           |                |                 |           |
