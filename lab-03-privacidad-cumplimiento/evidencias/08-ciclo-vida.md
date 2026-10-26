@@ -1,5 +1,7 @@
 ## ¿Existen otras tablas relacionadas?
-¿Existen respaldos?
+  Sí, hay tablas relacionadas con otros departamentos.
+## ¿Existen respaldos?
+  
 ¿Existen réplicas?
 ¿Existen registros de auditoría?
 ¿Existen copias utilizadas para analítica?
